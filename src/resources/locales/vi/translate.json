@@ -1,0 +1,14 @@
+{
+  "app": {
+    "titleApp": "Nhấp vào logo Vite và React để tìm hiểu thêm",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "blog": "Tin tức",
+    "contact": "Liên hệ",
+    "today": "Hôm nay",
+    "selectDate": "Chọn ngày",
+    "ui": "Giao diện",
+    "placeholderSelect": "Chọn",
+    "noData": "Không có dữ liệu"
+  }
+}

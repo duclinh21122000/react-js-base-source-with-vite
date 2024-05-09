@@ -1,0 +1,14 @@
+{
+  "app": {
+    "titleApp": "Click on the Vite and React logos to learn more",
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "today": "Today",
+    "selectDate": "Select Date",
+    "ui": "Ui",
+    "placeholderSelect": "Select",
+    "noData": "No Data"
+  }
+}
